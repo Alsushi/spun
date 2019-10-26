@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/p/catia0/</loc>
+    <loc>https://siliconpunch.com/p/catia0/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/p/redhat0/</loc>
+    <loc>https://siliconpunch.com/p/redhat0/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/p/sgd0/</loc>
+    <loc>https://siliconpunch.com/p/sgd0/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/p/spun0-copy/</loc>
+    <loc>https://siliconpunch.com/p/spun0-copy/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/p/spun0/</loc>
+    <loc>https://siliconpunch.com/p/spun0/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/p/vmw_horizon/</loc>
+    <loc>https://siliconpunch.com/p/vmw_horizon/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://siliconpunch.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://siliconpunch.com/p/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/p/</loc>
+    <loc>https://siliconpunch.com/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://siliconpunch.com/tags/</loc>
   </url>
   
 </urlset>
