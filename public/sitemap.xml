@@ -3,49 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://siliconpunch.com/p/catia0/</loc>
-    <priority>0</priority>
+    <loc>https://siliconpunch.com/ai/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://siliconpunch.com/p/redhat0/</loc>
-    <priority>0</priority>
+    <loc>https://siliconpunch.com/categories/article/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://siliconpunch.com/p/sgd0/</loc>
-    <priority>0</priority>
+    <loc>https://siliconpunch.com/tags/article/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://siliconpunch.com/p/spun0-copy/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://siliconpunch.com/p/spun0/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://siliconpunch.com/p/vmw_horizon/</loc>
-    <priority>0</priority>
+    <loc>https://siliconpunch.com/be/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://siliconpunch.com/categories/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://siliconpunch.com/p/</loc>
+    <loc>https://siliconpunch.com/dev/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/ai/how_to_script_ai/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/be/be_tools/introduction_to_plm/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/be/catia0/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/be/redhat0/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/be/sgd0/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/be/vmw_horizon/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/dev/c_gdb_-_how_to_debug/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/dev/c_programs/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://siliconpunch.com/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://siliconpunch.com/tags/</loc>
+    <lastmod>2019-09-19T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/ai/ai_bookmark/ad/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/ai/ai_bookmark/bm/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/be/spun0-copy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://siliconpunch.com/be/spun0/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

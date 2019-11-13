@@ -1,4 +1,8 @@
 baseURL = "https://siliconpunch.com"
 languageCode = "en"
-title = "silicon punch"
-theme ="ananke"
+title = "silicon punch - tech blog"
+theme ="materialgo"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""

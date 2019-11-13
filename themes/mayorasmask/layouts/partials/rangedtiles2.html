@@ -1,0 +1,32 @@
+<div class="row">
+  {{$counter:=0}}
+  {{$itm:=0}}
+  {{if (where .Site.RegularPages "Section" "==" "events")}}
+  {{/*//$itm = len .Data.Pages*/}}
+  {{$itm = len (where .Site.RegularPages "Section" "==" "events") }}
+  <p>Nombre de pages dans la catégorie : {{$itm}}.</p>
+  {{ range first 10 .Data.Pages }}
+    {{$counter = add $counter 1}}
+    <div class="col s3 m3">
+      <div class="card medium">
+        <div class="card-image">
+          <img src="/images/cityblur.jpg">
+          <span class="card-title">{{$counter}}</span>
+        </div>
+        <div class="card-content">
+          <p>{{.Data.Categories}} {{.Title}} dans la catégorie {{.Description}}<br>Date {{.Date.Format "2006-01-02"}}<br>{{/*.lieu*/}} </p>
+        </div>
+        <div class="card-action">
+          <a href="{{.Permalink}}">Plus d'info</a>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+  {{else if (where .Site.RegularPages "Section" "==" "associations")}}
+  {{$itm = len (where .Site.RegularPages "Section" "==" "associations") }}
+  <p>Nombre de pages dans la catégorie : {{$itm}}.</p>
+
+  {{end}}
+  {{$itm = 0}}
+  <br>
+</div>

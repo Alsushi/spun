@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{partial "head.html" .}}
+<body>
+    {{partial "body1.html" .}}
+  <div class="container">
+    <div class="section">
+
+      <!--   Icon Section   -->
+      <div class="row card">
+        <div class="col s12 m4 card-image">
+            <div class="card">
+                <div class="card-image">
+                    <a href="/dev/c_programs">
+                        <img src="images/sample-1.jpg">
+                        <span class="card-title center white-text text-lighten-2">
+                            <b>How to build C programs.</b>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s12 m4 card-image">
+            <div class="card">
+                <div class="card-image">
+                    <a href="/">
+                        <img src="images/sample-1.jpg">
+                        <span class="card-title">
+                            <b>I am a very simple card. I am good at containing small bits of information.</b>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s12 m4 card-image">
+            <div class="card">
+                <div class="card-image">
+                    <a href="/">
+                        <img src="images/sample-1.jpg">
+                        <span class="card-title">
+                            <b>I am a very simple card. I am good at containing small bits of information.</b>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        {{ range first 3 .Data.Pages }}
+        <div class="col s12 m4 card-image">
+          <div class="card">
+              <div class="card-image">
+                  <a href="{{.Permalink}}">
+                      <img src="/images/sample-1.jpg">
+                      <span class="card-title">
+                          <b>{{.Data.Categories}} {{.Title}} dans la catégorie {{.Description}}<br></b>
+                      </span>
+                  </a>
+              </div>
+          </div>
+        </div>
+        {{end}}
+    </div>
+  </div>
+  </div>
+
+  {{partial "body2.html" .}}
+  {{partial "footer.html" .}}
+
+
+  </body>
+</html>

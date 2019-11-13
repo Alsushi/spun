@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bes on silicon punch - tech blog</title>
+    <link>https://siliconpunch.com/be/</link>
+    <description>Recent content in Bes on silicon punch - tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Sep 2019 16:58:58 -0500</lastBuildDate>
+    
+	<atom:link href="https://siliconpunch.com/be/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>premier article</title>
+      <link>https://siliconpunch.com/be/be_tools/introduction_to_plm/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/be/be_tools/introduction_to_plm/</guid>
+      <description>What is called &amp;ldquo;PLM&amp;rdquo; exactly? PLM can be referred as tools used in engineering. This term is not widely known, except from commercials whose goal is to sell tools. Indeed, due to the complexity of engineering topics, tools are more and more connected. This starts from compatibility reasons up to complete cloud solution.
+The components of a PLM tool Basically you can get 2 main PLM suites: PTC one and Dassault one.</description>
+    </item>
+    
+    <item>
+      <title>premier article</title>
+      <link>https://siliconpunch.com/be/catia0/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/be/catia0/</guid>
+      <description>catia heads up plop first post
+What about Catia? Wikipedia</description>
+    </item>
+    
+    <item>
+      <title>premier article</title>
+      <link>https://siliconpunch.com/be/redhat0/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/be/redhat0/</guid>
+      <description>Red Hat Enterprise What is Red Hat? Grosso merdo this is a Linux like, but may have some specific config because it is intended for a very wide usage into a company. You might expect other plugin added above. plop first post</description>
+    </item>
+    
+    <item>
+      <title>premier article</title>
+      <link>https://siliconpunch.com/be/sgd0/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/be/sgd0/</guid>
+      <description>SGD Sgd is a virtual desktop, or some Jave SE code rendering display locally from a remote desktop. Depending of the version it is highly deprecated.
+Fortunately there are amazing compatibilty tweaks.
+plop first post</description>
+    </item>
+    
+    <item>
+      <title>premier article</title>
+      <link>https://siliconpunch.com/be/vmw_horizon/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/be/vmw_horizon/</guid>
+      <description>Horizon Is a remote client display but it is extremely locked from a client side perspective. As such any unplanified issue may leave you without solution.
+Keyboard issue/ Display issue
+plop first post</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://siliconpunch.com/be/spun0-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://siliconpunch.com/be/spun0-copy/</guid>
+      <description>plop first post</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://siliconpunch.com/be/spun0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://siliconpunch.com/be/spun0/</guid>
+      <description>plop first post</description>
+    </item>
+    
+  </channel>
+</rss>

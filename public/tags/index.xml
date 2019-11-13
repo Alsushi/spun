@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on silicon punch</title>
+    <title>Tags on silicon punch - tech blog</title>
     <link>https://siliconpunch.com/tags/</link>
-    <description>Recent content in Tags on silicon punch</description>
+    <description>Recent content in Tags on silicon punch - tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 19 Sep 2019 16:58:58 -0500</lastBuildDate>
     
 	<atom:link href="https://siliconpunch.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>article</title>
+      <link>https://siliconpunch.com/tags/article/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/tags/article/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

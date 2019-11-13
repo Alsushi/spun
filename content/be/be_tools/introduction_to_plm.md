@@ -1,3 +1,11 @@
++++
+title= "premier article"
+date= "2019-09-19T16:58:58-05:00"
+Description= "article de base"
+Tags= ["article"]
+Categories= ["article"]
++++
+
 #### What is called "PLM" exactly?
 PLM can be referred as tools used in engineering. This term is not widely known, except from commercials whose goal is to sell tools.
 Indeed, due to the complexity of engineering topics, tools are more and more connected. This starts from compatibility reasons up to complete cloud solution.

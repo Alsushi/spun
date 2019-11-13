@@ -1,3 +1,11 @@
++++
+title= "premier article"
+date= "2019-09-19T16:58:58-05:00"
+Description= "article de base"
+Tags= ["article"]
+Categories= ["article"]
++++
+
 ##### JavaScript API for Adobe illustrator cc22
 Ai can be customized and improved at various levels. A first user-friendly level of automation is called ACTIONS. To sum up it is basically recording what the mouse can do with some hickups.
 Beware though: some functions are not reachable or glitched. To extend the automation scope of the tool, one can use Adobe API called ExtendScript.

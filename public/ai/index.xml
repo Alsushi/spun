@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ais on silicon punch - tech blog</title>
+    <link>https://siliconpunch.com/ai/</link>
+    <description>Recent content in Ais on silicon punch - tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Sep 2019 16:58:58 -0500</lastBuildDate>
+    
+	<atom:link href="https://siliconpunch.com/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>premier article</title>
+      <link>https://siliconpunch.com/ai/how_to_script_ai/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/ai/how_to_script_ai/</guid>
+      <description>JavaScript API for Adobe illustrator cc22 Ai can be customized and improved at various levels. A first user-friendly level of automation is called ACTIONS. To sum up it is basically recording what the mouse can do with some hickups. Beware though: some functions are not reachable or glitched. To extend the automation scope of the tool, one can use Adobe API called ExtendScript. Things starts to become interesting as Ai would now react as a Command Line Instrustion.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://siliconpunch.com/ai/ai_bookmark/ad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://siliconpunch.com/ai/ai_bookmark/ad/</guid>
+      <description>====RADIO BBC R1 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+====Electro madeon{ imperium} Jaded{ In The Morning} Kelis{ Acapella} Secondcity{ I wanna feel} Disciples{On My Mind } The xx {Dangerous} Mylo {In My Arms}
+====Dance Kieza{ Hideaway} Years Years{ Desire} Robin S{ Show me love} The 1975{ The sound} Duke Dumont &amp;amp; Gorgon City{ Real Life (feat. Naations)} Martin Solveig{All Stars (Club Mix) (feat. Alma)} James Hype{More Than Friends (feat. Kelli‐Leigh) } Drake{One Dance (feat. WizKid &amp;amp; Kyla)} Blonde{All Cried Out (feat.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://siliconpunch.com/ai/ai_bookmark/bm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://siliconpunch.com/ai/ai_bookmark/bm/</guid>
+      <description>BM.contents: =$=JS scripting TUTO=$= =$=JSAMPLES=$= =$=SCRIPTS samples=$= =$=IDE/CONSOLE TUTO=$= =$=MATHS TUTO=$= =$=TECH=$= =$=Ai=$= =$=EXCEL TCD=$= =$=EXCEL GANTT=$= =$=PDF=$= =$=PRINT=$=
+=========JS scripting TUTO CODE REVIEW http://www.jshint.com/ CODE TEST http://jsfiddle.net Variable Scope https://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting/ ternary https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator TUTO http://www.tarleton.edu/COSTWEB/computerscience/documents/CS%20230%20Documents/Articles/JavaScript%20Tutorial.pdf TUTO https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112 http://www.adobepress.com/articles/article.asp?p=791593&amp;amp;seqNum=7 VARIABLES http://prepression.blogspot.fr/2015/03/illustrator-variableimporter-script-tutorial-1.html TUTO https://openclassrooms.com/courses/ecrivez-des-scripts-en-extendscript https://openclassrooms.com/courses/simplifiez-vos-developpements-javascript-avec-jquery/selection-d-elements-3 http://yearbook.github.io/esdocs/#/ jsx boss http://www.jongware.com/ Boss LOIC AIGON http://www.ozalto.com/ http://jsid.blogspot.fr/2006_04_01_archive.html https://medium.com/@jolg42/how-to-create-an-html5-javascript-extension-for-adobe-illustrator-photoshop-cc-78921802e248 APP MENU ITEMS http://kasyan.ho.com.ua/open_menu_item.html* https://incom.org/post/89818 TGT ENGINE https://stackoverflow.com/questions/11405987/indesign-cs5-script-why-is-targetengine-not-working-correctly progress bar https://github.com/fabianmoronzirfas/extendscript/wiki/Progress-And-Delay performance gains https://forums.adobe.com/thread/1242009 bridge ESTK http://www.adobe.com/devnet/bridge.html W3S https://www.</description>
+    </item>
+    
+  </channel>
+</rss>
