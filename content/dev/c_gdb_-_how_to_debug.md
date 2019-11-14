@@ -1,9 +1,9 @@
 +++
-title= "premier article"
+title= "debug C programs"
 date= "2019-09-19T16:58:58-05:00"
-Description= "article de base"
-Tags= ["article"]
-Categories= ["article"]
+Description= "how to use gdb debug"
+Tags= ["gdb"]
+Categories= ["code debug"]
 +++
 
 ##### how to debug c programs

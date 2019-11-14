@@ -1,7 +1,7 @@
 +++
-title= "premier article"
+title= "C programs"
 date= "2019-09-19T16:58:58-05:00"
-Description= "article de base"
+Description= "code in c"
 Tags= ["article"]
 Categories= ["article"]
 +++

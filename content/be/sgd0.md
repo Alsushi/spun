@@ -1,7 +1,7 @@
 +++
-title= "premier article"
+title= "Sun virtual desktop"
 date= "2019-09-19T16:58:58-05:00"
-Description= "article de base"
+Description= "SGD"
 Tags= ["article"]
 Categories= ["article"]
 +++
