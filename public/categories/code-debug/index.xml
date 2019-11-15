@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devs on silicon punch - tech blog</title>
-    <link>https://siliconpunch.com/dev/</link>
-    <description>Recent content in Devs on silicon punch - tech blog</description>
+    <title>code debug on silicon punch - tech blog</title>
+    <link>https://siliconpunch.com/categories/code-debug/</link>
+    <description>Recent content in code debug on silicon punch - tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Sep 2019 16:58:58 -0500</lastBuildDate>
     
-	<atom:link href="https://siliconpunch.com/dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://siliconpunch.com/categories/code-debug/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>C programs</title>
-      <link>https://siliconpunch.com/dev/c_programs/</link>
-      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
-      
-      <guid>https://siliconpunch.com/dev/c_programs/</guid>
-      <description>build c programs A C program is a main function in a file dot c that must be compiled. We will use Gcc by simply executing the command gcc file.c Then we have a new file called binary, that is written for the computer exclusively.</description>
-    </item>
     
     <item>
       <title>debug C programs</title>
