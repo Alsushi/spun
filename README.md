@@ -4,6 +4,6 @@ UI should look the same but UX should be improved.
 Maintainability and content creation should be greatly improved.
 
 ##### Theme is Material Design flavored
-Temporary theme used
+Theme is based on materializecss
 
 ###### Other topics websites should follow this approach
