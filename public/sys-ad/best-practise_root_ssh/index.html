@@ -47,54 +47,44 @@
       </div>
     
     
-    <div class="container">
-        <div class="section">
-            <h6>List of articles</h6>
-            <div class="row">
-  
-  
-  
-  
-  
-  <p>Nombre de pages dans la catégorie : 0.</p>
-  
-    
-    <div class="col s12 m4 card-image">
-      <div class="card">
-          <div class="card-image">
-              <a href="https://siliconpunch.com/categories/article/">
-                  <img src="/images/sample-1.jpg">
-                  <span class="card-title">
-                      <h5><b> article dans la catégorie <br>Date 2019-09-19</b></h5>
-                  </span>
-              </a>
-          </div>
-      </div>
-    </div>
+  <div class="container">
+    <div class="section">
+      <h6>Article SSH using root@machine</h6>
+      
 
-  
-    
-    <div class="col s12 m4 card-image">
-      <div class="card">
-          <div class="card-image">
-              <a href="https://siliconpunch.com/categories/code-debug/">
-                  <img src="/images/sample-1.jpg">
-                  <span class="card-title">
-                      <h5><b> code debug dans la catégorie <br>Date 2019-09-19</b></h5>
-                  </span>
-              </a>
-          </div>
-      </div>
-    </div>
+<h5 id="disable-root-login-on-ssh">Disable root login on SSH</h5>
 
-  
- 
-  
-  <br>
-</div>
+<p>To take control on a distant computer on Linux, many system offers a default login by root admin user.
+Technically you need to know user name and user account password to connect.
+Therefore anyone willing to connect would just have to guess a password.</p>
 
-        </div>
+<hr />
+
+<p>what if root access is removed without creating other users?
+Then server access is lost and would require an intervention to reinstall the system.
+[b]YE BE WARNED![/b]</p>
+
+<hr />
+
+<p>How to disable it:</p>
+
+<pre><code>emacs /etc/ssh/sshd_config
+</code></pre>
+
+<pre><code>PermitRootLogin yes
+</code></pre>
+
+<p>change to (or comment with #)</p>
+
+<pre><code>PermitRootLogin no
+</code></pre>
+
+<p>CTRL X, CTRL C to overwrite and return to shell.</p>
+
+<p>Morevore one could also change port from 22 to something looking random.</p>
+
     </div>
+  </div>
 <footer class="page-footer cyan darken-3">
     <div class="container">
       <div class="row">

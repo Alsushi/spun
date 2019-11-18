@@ -12,6 +12,25 @@
     
     
     <item>
+      <title>bash config file for terminal use - CLI</title>
+      <link>https://siliconpunch.com/sys-ad/bashrc-example_with_colored_prompt/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/sys-ad/bashrc-example_with_colored_prompt/</guid>
+      <description>Bash prompt can be colored This is a modified .bashrc file including fancy colors.
+# ~/.bashrc: executed by bash(1) for non-login shells. # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc) # for examples # If not running interactively, don&#39;t do anything [ -z &amp;quot;$PS1&amp;quot; ] &amp;amp;&amp;amp; return # don&#39;t put duplicate lines in the history. See bash(1) for more options # ... or force ignoredups and ignorespace HISTCONTROL=ignoredups:ignorespace # append to the history file, don&#39;t overwrite it shopt -s histappend # for setting history length see HISTSIZE and HISTFILESIZE in bash(1) HISTSIZE=1000 HISTFILESIZE=2000 # check the window size after each command and, if necessary, # update the values of LINES and COLUMNS.</description>
+    </item>
+    
+    <item>
+      <title>bin/bash shell - change shell</title>
+      <link>https://siliconpunch.com/sys-ad/set_specific-bash-shell_for_user/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/sys-ad/set_specific-bash-shell_for_user/</guid>
+      <description>Linux bash shell If user account is set to use sh instead of bash some usual commands may not work. * Does up arrow showing the last command? * Does left arrow allow to move cursor? * Does TAB autocompletes commands? One of these points might showcase an incorrect user profile for shell. To fix it chsh -s /bin/bash  The rootcause can be a badly initialised default config for user accounts.</description>
+    </item>
+    
+    <item>
       <title>C programs</title>
       <link>https://siliconpunch.com/dev/c_programs/</link>
       <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
@@ -56,6 +75,16 @@ What about Catia? Wikipedia</description>
       
       <guid>https://siliconpunch.com/be/redhat0/</guid>
       <description>Red Hat Enterprise What is Red Hat? A Linux like, but may have some specific config because it is intended for a very wide usage into a company. You might expect other plugin added above.</description>
+    </item>
+    
+    <item>
+      <title>SSH using root@machine</title>
+      <link>https://siliconpunch.com/sys-ad/best-practise_root_ssh/</link>
+      <pubDate>Thu, 19 Sep 2019 16:58:58 -0500</pubDate>
+      
+      <guid>https://siliconpunch.com/sys-ad/best-practise_root_ssh/</guid>
+      <description>Disable root login on SSH To take control on a distant computer on Linux, many system offers a default login by root admin user. Technically you need to know user name and user account password to connect. Therefore anyone willing to connect would just have to guess a password.
+what if root access is removed without creating other users? Then server access is lost and would require an intervention to reinstall the system.</description>
     </item>
     
     <item>
